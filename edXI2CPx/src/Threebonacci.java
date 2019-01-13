@@ -27,9 +27,7 @@ public class Threebonacci {
             long b = io.nextLong();
             long c = io.nextLong();
             long n = io.nextLong();
-//            for(n = 0; n < 1000; n++) {
                 io.println(f(a, b, c, n));
-//            }
         }
     }
 
