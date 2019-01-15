@@ -1,6 +1,6 @@
 import mooc.EdxIO;
 
-public class PrepareForCompetitions {
+public class PrepareYourselfCompetitions {
 
     private static int compare(int[] a, int[] b, int n) {
 
