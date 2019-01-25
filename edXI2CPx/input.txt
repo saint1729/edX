@@ -1,1 +1,14 @@
-5 5 7
+3 1
+abc
+LanguageA
+%TEMPLATE-START%
+a
+%TEMPLATE-END%
+LanguageAB
+%TEMPLATE-START%
+ab
+%TEMPLATE-END%
+LanguageB
+%TEMPLATE-START%
+b
+%TEMPLATE-END%
