@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a89f874d-ff79-46b8-8645-dbe5e7dbc966" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a89f874d-ff79-46b8-8645-dbe5e7dbc966" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +72,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Default Changelist'; set:Default Changelist; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
+            <path>
+              <item name="edXI2CPx" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="edXI2CPx" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,17 +94,6 @@
               <item name="edXI2CPx" type="b2602c69:ProjectViewProjectNode" />
               <item name="edXI2CPx" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Default Changelist'; set:Default Changelist; class com.intellij.packageDependencies.ChangeListScope">
-          <expand>
-            <path>
-              <item name="edXI2CPx" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="edXI2CPx" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
           </expand>
           <select />
@@ -242,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548700302004</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&quot;1st Week Problems: Training&quot; still problem #9&#10;&#10;Posted it on Stackoverflow:&#10;&#10;https://stackoverflow.com/questions/54392360/what-is-the-best-algorithm-to-find-number-of-factors-of-first-n-natural-numbers">
+      <created>1551271131807</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1551271131807</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -257,7 +262,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1002" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49882352" visible="true" weight="0.28228387" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49882352" visible="true" weight="0.2854856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -275,7 +280,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010672" side_tool="true" weight="0.30070755" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32941177" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49893278" visible="true" weight="0.30070755" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49893278" visible="true" weight="0.30070755" />
       <window_info anchor="bottom" id="JRebel Console" order="10" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32900944" />
